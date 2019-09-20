@@ -1,0 +1,26 @@
+Ranks based on CGPA:
+Rank = 1	 Name = Sapna	 CGPA = 9.9844	 GPA of Sem 1 = 10.0	 GPA of Sem 2 = 9.97
+Rank = 2	 Name = Anjali	 CGPA = 9.6408	 GPA of Sem 1 = 9.75	 GPA of Sem 2 = 9.54
+Rank = 3	 Name = Nadiya	 CGPA = 9.3228	 GPA of Sem 1 = 9.25	 GPA of Sem 2 = 9.39
+Rank = 4	 Name = Sony	 CGPA = 9.1652	 GPA of Sem 1 = 9.42	 GPA of Sem 2 = 8.93
+Rank = 5	 Name = Kripa	 CGPA = 8.7808	 GPA of Sem 1 = 8.5	 GPA of Sem 2 = 9.04
+Rank = 6	 Name = Sonali	 CGPA = 8.7672	 GPA of Sem 1 = 8.84	 GPA of Sem 2 = 8.7
+Rank = 7	 Name = Shobha	 CGPA = 8.6228	 GPA of Sem 1 = 8.42	 GPA of Sem 2 = 8.81
+Rank = 8	 Name = Yashika	 CGPA = 8.5204	 GPA of Sem 1 = 8.25	 GPA of Sem 2 = 8.77
+Rank = 9	 Name = Yogesh	 CGPA = 8.0208	 GPA of Sem 1 = 8.0	 GPA of Sem 2 = 8.04
+Rank = 10	 Name = Shruti	 CGPA = 8.0208	 GPA of Sem 1 = 8.0	 GPA of Sem 2 = 8.04
+Rank = 11	 Name = Keerthi	 CGPA = 7.8256	 GPA of Sem 1 = 7.42	 GPA of Sem 2 = 8.2
+Rank = 12	 Name = Venkata	 CGPA = 7.8012	 GPA of Sem 1 = 7.25	 GPA of Sem 2 = 8.31
+Rank = 13	 Name = Sital	 CGPA = 7.784	 GPA of Sem 1 = 7.42	 GPA of Sem 2 = 8.12
+Rank = 14	 Name = Umesh	 CGPA = 7.6644	 GPA of Sem 1 = 7.42	 GPA of Sem 2 = 7.89
+Rank = 15	 Name = Anurag	 CGPA = 7.5408	 GPA of Sem 1 = 7.0	 GPA of Sem 2 = 8.04
+Rank = 16	 Name = Shrikant	 CGPA = 7.4632	 GPA of Sem 1 = 7.25	 GPA of Sem 2 = 7.66
+Rank = 17	 Name = Ganesh	 CGPA = 7.422	 GPA of Sem 1 = 7.5	 GPA of Sem 2 = 7.35
+Rank = 18	 Name = Prasad	 CGPA = 7.3636	 GPA of Sem 1 = 6.75	 GPA of Sem 2 = 7.93
+Rank = 19	 Name = Pratik	 CGPA = 7.2464	 GPA of Sem 1 = 7.34	 GPA of Sem 2 = 7.16
+Rank = 20	 Name = Tebby	 CGPA = 7.246	 GPA of Sem 1 = 7.09	 GPA of Sem 2 = 7.39
+Rank = 21	 Name = Byresh	 CGPA = 6.8056	 GPA of Sem 1 = 6.92	 GPA of Sem 2 = 6.7
+Rank = 22	 Name = Gopi	 CGPA = 6.242	 GPA of Sem 1 = 5.67	 GPA of Sem 2 = 6.77
+Rank = 23	 Name = Bhaskar	 CGPA = 6.0068	 GPA of Sem 1 = 6.09	 GPA of Sem 2 = 5.93
+Rank = 24	 Name = Arfin	 CGPA = 5.8416	 GPA of Sem 1 = 5.67	 GPA of Sem 2 = 6.0
+Rank = 25	 Name = Suresh	 CGPA = 5.504	 GPA of Sem 1 = 5.92	 GPA of Sem 2 = 5.12

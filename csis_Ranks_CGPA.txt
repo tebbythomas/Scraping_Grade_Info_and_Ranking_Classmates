@@ -1,0 +1,19 @@
+Ranks based on CGPA:
+Rank = 1	 Name = Vanajakshi	 CGPA = 9.946	 GPA of Sem 1 = 9.92	 GPA of Sem 2 = 9.97
+Rank = 2	 Name = Deepali	 CGPA = 9.5064	 GPA of Sem 1 = 9.34	 GPA of Sem 2 = 9.66
+Rank = 3	 Name = Manasa	 CGPA = 8.4856	 GPA of Sem 1 = 8.34	 GPA of Sem 2 = 8.62
+Rank = 4	 Name = Nitin	 CGPA = 8.482	 GPA of Sem 1 = 8.17	 GPA of Sem 2 = 8.77
+Rank = 5	 Name = Krithi	 CGPA = 8.3832	 GPA of Sem 1 = 8.17	 GPA of Sem 2 = 8.58
+Rank = 6	 Name = Karis	 CGPA = 8.3224	 GPA of Sem 1 = 8.0	 GPA of Sem 2 = 8.62
+Rank = 7	 Name = Suraj	 CGPA = 8.1464	 GPA of Sem 1 = 7.59	 GPA of Sem 2 = 8.66
+Rank = 8	 Name = Roshan	 CGPA = 7.982	 GPA of Sem 1 = 7.67	 GPA of Sem 2 = 8.27
+Rank = 9	 Name = Mandar	 CGPA = 7.982	 GPA of Sem 1 = 7.67	 GPA of Sem 2 = 8.27
+Rank = 10	 Name = Vignesha	 CGPA = 7.8656	 GPA of Sem 1 = 7.59	 GPA of Sem 2 = 8.12
+Rank = 11	 Name = Arunkumar	 CGPA = 7.5	 GPA of Sem 1 = 7.5	 GPA of Sem 2 = 7.5
+Rank = 12	 Name = Saurabh	 CGPA = 7.2636	 GPA of Sem 1 = 6.0	 GPA of Sem 2 = 8.43
+Rank = 13	 Name = Amit	 CGPA = 6.8416	 GPA of Sem 1 = 6.67	 GPA of Sem 2 = 7.0
+Rank = 14	 Name = Shruti	 CGPA = 6.6428	 GPA of Sem 1 = 5.92	 GPA of Sem 2 = 7.31
+Rank = 15	 Name = Dipali	 CGPA = 6.5412	 GPA of Sem 1 = 6.25	 GPA of Sem 2 = 6.81
+Rank = 16	 Name = Sheethal	 CGPA = 6.4816	 GPA of Sem 1 = 5.92	 GPA of Sem 2 = 7.0
+Rank = 17	 Name = Chetan	 CGPA = 6.3432	 GPA of Sem 1 = 5.09	 GPA of Sem 2 = 7.5
+Rank = 18	 Name = Ajay	 CGPA = 6.0064	 GPA of Sem 1 = 5.84	 GPA of Sem 2 = 6.16
